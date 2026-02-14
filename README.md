@@ -13,6 +13,7 @@ Determinar cuál de los planes de prepago (Surf vs Ultimate) genera mayores ingr
 📁 Dataset: 500 clientes – comportamiento durante 2018. Informacion dividida en diferentes datasets : megaline_plans.csv,megaline_calls.csv, megaline_internet.csv,megaline_messages.csv y megaline_users.csv
 
 💻 Procesamiento de datos
+
 Limpieza y validación de datos
 Cálculo de consumo mensual (llamadas, SMS, datos)
 Modelado de ingresos (tarifa fija + cargos por excedente)
