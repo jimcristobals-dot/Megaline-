@@ -43,17 +43,18 @@ Incentivar migración de usuarios Surf con altos cargos extra.
 Implementar campañas estacionales (fin de año).
 No segmentar campañas por región (sin impacto significativo).
 
-Algunas Visualizaciones 
-Revenue Distribution by Plan
-![Revenue Distribution](assets/revenue_distribution.png)
+📈 Algunas Visualizaciones 
 
-Monthly Revenue Trend
-![Monthly Revenue](assets/monthly_revenue.png)
+Promedio y Total de Ingresos por plan
+![Revenue Comparison](assets/promedioytotalingresos.jpg)
 
-SMS Usage Comparison
-![SMS Comparison](assets/sms_comparison.png)
+Distribucion de llamadas
+![Calls Distribution](assets/distribuciondellamadasxplan.jpg)
 
-Data Usage Comparison
-![Data Usage](assets/data_usage.png)
+Distribucion de SMS
+![SMS Distribution](assets/distribucionSMS.jpg)
 
-📈 Visualizaciones
+Data Usage Distribution 
+![Data Usage](assets/distribucionGB.jpg)
+
+
