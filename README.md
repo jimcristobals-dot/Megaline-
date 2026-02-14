@@ -9,6 +9,7 @@
 
 🎯 Objetivo 
 Determinar cuál de los planes de prepago (Surf vs Ultimate) genera mayores ingresos, con el fin de optimizar la estrategia comercial y el presupuesto de publicidad de la empresa.
+
 📁 Dataset: 500 clientes – comportamiento durante 2018. Informacion dividida en diferentes datasets : megaline_plans.csv,megaline_calls.csv, megaline_internet.csv,megaline_messages.csv y megaline_users.csv
 
 💻 Procesamiento de datos
