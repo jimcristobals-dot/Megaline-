@@ -20,6 +20,7 @@ Análisis exploratorio de datos (EDA)
 Prueba t de hipótesis para validar diferencias de ingresos
 
 🔎 Principales Hallazgos
+
 💰 Ingresos
 Ultimate genera mayor ingreso promedio mensual.
 Presenta ingresos más estables (menor variabilidad).
