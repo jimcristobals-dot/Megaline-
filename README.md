@@ -47,6 +47,6 @@ No segmentar campañas por región (sin impacto significativo).
 
 ![Revenue Comparison](assets/promedioytotalingresos.jpg)
 
-<img src="assets/distribuciondellamadasxplan.jpg" width="300">  <img src="assets/distribucionSMS.jpg" width="400"> <img src="assets/distribucionGB.jpg" width="400">
+<img src="assets/distribuciondellamadasxplan.jpg" width="200">  <img src="assets/distribucionSMS.jpg" width="300"> <img src="assets/distribucionGB.jpg" width="300">
 
 
