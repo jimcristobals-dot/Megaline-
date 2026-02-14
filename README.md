@@ -48,13 +48,9 @@ No segmentar campañas por región (sin impacto significativo).
 Promedio y Total de Ingresos por plan
 ![Revenue Comparison](assets/promedioytotalingresos.jpg)
 
-Distribucion de llamadas
-<img src="assets/distribuciondellamadasxplan.jpg" width="400">
+Distribucion de llamadas <img src="assets/distribuciondellamadasxplan.jpg" width="300"> Distribucion de SMS <img src="assets/distribucionSMS.jpg" width="300">
 
-Distribucion de SMS
-<img src="assets/distribucionSMS.jpg" width="400">
-
-Data Usage Distribution 
+Datos Distribution 
 <img src="assets/distribucionGB.jpg" width="400">
 
 
